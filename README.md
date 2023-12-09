@@ -1,2 +1,3 @@
 # Genetic variants and AI
-AI methods on genetic variants for disease risk and outcome prediction
+An iterative search algorithm which at each run, insert the most predictive SNPs on top, following the algorithm mentioned in https://www.nature.com/articles/s41598-018-31573-5
+
